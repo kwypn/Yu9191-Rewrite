@@ -15,6 +15,8 @@
 下载地址：亚瑟浏览器 永久订阅一次性
 下载地址：Metion 商店3.50
 下载地址：小日常 商店7.22
+下载地址：chat smith  https://t.cn/A6OC5HGz
+
 
 使用声明：⚠️仅供参考，🈲️转载与售卖！
 
@@ -55,6 +57,7 @@ var uaProductMapping = {
   'YSBrowser': {product_id: 'com.ys.pro'},
   'Metion': {product_id: 'org.zrey.metion.pro'},
   '%E5%B0%8F%E6%97%A5%E5%B8%B8': {product_id: 'membership'},
+  'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
   
 };
 var receipt = {
