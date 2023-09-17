@@ -12,5 +12,6 @@ FT中文网 外区
 hostname = *.cloudfront.net
 
 *******************************/
-var newBody = '{"paywall":0,"premium":1,"standard":1,"addon":0,"expire":"999693756810","v":1997,"campaign_code":"","latest_duration":"yearly"}';
-$done(newBody);
+var objc = JSON.parse($response.body);
+    objc = {"paywall":0,"premium":1,"standard":1,"addon":0,"expire":"999693756810","v":1997,"campaign_code":"","latest_duration":"yearly"}
+$done({body : JSON.stringify(objc)});
