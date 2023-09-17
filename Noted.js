@@ -15,7 +15,7 @@
 
 [mitm] 
 
-hostname = ubscription-api.notedapp.io
+hostname = subscription-api.notedapp.io
 
 *******************************/
 
