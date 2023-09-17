@@ -5,7 +5,7 @@ FT中文网 外区
 [rewrite_local]
 ^https:\/\/*\.cloudfront\.net\/index\.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FTzhongwenwang.js
 
-^^https:\/\/*\.cloudfront\.net\/index\.php\/jsapi\/get_story_more_info\/* url script- response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FTbody.js
+^https:\/\/*\.cloudfront\.net\/index\.php\/jsapi\/get_story_more_info\/* url script- response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FTbody.js
 
 
 [mitm]
