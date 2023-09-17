@@ -3,7 +3,7 @@ FT中文网 外区
 ***********************
 
 [rewrite_local]
-^http[s]?:\/\/.*.cloudfront.net\/index.php\/jsapi\/paywall url script-response-body cloudfront.js
+^http[s]?:\/\/.*.cloudfront.net\/index.php\/jsapi\/paywall url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/FTzhongwenwang.js
 [mitm] 
 hostname = .*.cloudfront.net
 
