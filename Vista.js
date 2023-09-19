@@ -8,11 +8,11 @@
 
 [rewrite_local]
 #我的photo
-^https:\/\/open3\.vistastory\.com/v3/api/(share_poster|vip|my/home/get_home_center) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Vista.js
+https://open3.vistastory.com/v3/api/poster/share_poster? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Vista.js
 #我的
-^https:\/\/open3\.vistastory\.com/v3/api/(share_poster|vip|my/home/get_home_center) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistamy.js
+https://open3.vistastory.com/v3/api/my/home/get_home_center? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistamy.js
 #vip
-^https:\/\/open3\.vistastory\.com/v3/api/(share_poster|vip|my/home/get_home_center) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
+https://open3.vistastory.com/v3/api/vip url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
 
 ^https:\/\/open3\.vistastory\.com\/v3\/api\/notice\/need_read_notice_number? url reject
 
