@@ -12,7 +12,7 @@ https://open3.vistastory.com/v3/api/poster/share_poster? url script-response-bod
 #我的
 https://open3.vistastory.com/v3/api/my/home/get_home_center? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistamy.js
 #vip
-https://open3.vistastory.com/v3/api/vip/get_vip_info_and_recommend_mags? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
+https://open3.vistastory.com/v3/api/vip/get_vip url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
 #vip2
 https://open3.vistastory.com/v3/api/magazine url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
 #vip3
