@@ -17,6 +17,8 @@ https://open3.vistastory.com/v3/api/vip/get_vip_info_and_recommend_mags? url scr
 https://open3.vistastory.com/v3/api/magazine url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
 #vip3
 https://open3.vistastory.com/v3/api/featured/column/get_content? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
+#vip4
+https://open3.vistastory.com/v3/api/article/article_detail2? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/vistavip.js
 
 ^https:\/\/open3\.vistastory\.com\/v3\/api\/notice\/need_read_notice_number? url reject
 
