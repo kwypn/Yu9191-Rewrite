@@ -6,7 +6,7 @@
 [rewrite_local]
 #^https?:\/\/api\.tumukaoyan\.com\/api\/headimg_list\/GetListByAll url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyanxcx.js
 
-^https?:\/\/api\.tumukaoyan\.com\/api\/wx\/CheckCodeV2.*? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyanxcx.js
+^https?:\/\/api\.tumukaoyan\.com\/api\/wx\/CheckCodeV2? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/kaoyanxcx.js
 
 
 [mitm]
