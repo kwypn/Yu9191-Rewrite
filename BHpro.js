@@ -7,9 +7,8 @@
 **************************************
 
 [rewrite_local]
-#vip
-^https:\/\/litebhapi\.belugabh\.com\/personal_center\/(my_homepage|user_equity_status_list)
- url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/BHpro.js
+
+^https:\/\/litebhapi\.belugabh\.com\/personal_center\/(my_homepage|user_equity_status_list) url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/BHpro.js
 
 [mitm]
 hostname = litebhapi.belugabh.com
