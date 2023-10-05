@@ -1,6 +1,6 @@
 /*************************************
 
-项目名称：revenuecat合集 （此合集只包含9.12及以后的软件）
+项目名称：revenuecat合集 （此合集只包含10.5及以后的软件）
 软件版本：均适配2023.9.8最新 （每一个下载地址对应一个UAMappings）
 下载地址：星锤日记 https://is.gd/R5KqD4
 下载地址：倒数鸭  https://is.gd/rETAhp
@@ -11,6 +11,7 @@
 下载地址：cookie记账 
 下载地址：倒数鸭 
 下载地址：HTTPBOT 2022.2.1 作者zoo
+下载地址：Mypianist 2.08
 
 使用声明：⚠️仅供参考，🈲️转载与售卖！
 
@@ -59,6 +60,7 @@ if (typeof $response == "undefined") {
     'Cookie':{ name: 'allaccess', id: 'app.ft.Bookkeeping.lifetime'},
     'CountDuck':{ name: 'premium', id: 'Lifetime'},
     'HTTPBot':{ name: 'Pro', id: 'httpbot_1499_1y_1w0'},
+    'MyPianist':{ name: 'pro', id: 'com.collaparte.mypianist.pro.gift.twelve'},
   };
   const data = {
     "expires_date": "2099-12-31T12:00:00Z",
