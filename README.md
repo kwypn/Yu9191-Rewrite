@@ -2,11 +2,11 @@
 
 ## iTunes 合集
 
-总共有 14 个软件在这个合集中。
+总共有 15 个软件在这个合集中。
 
 脚本链接：[点击查看脚本](https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js)
 
-最后更新时间：2023.9.16
+最后更新时间：2023.10.6
 
 ## Revenuecat 合集
 
