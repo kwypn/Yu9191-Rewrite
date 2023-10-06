@@ -33,7 +33,7 @@ var objc = JSON.parse($response.body);
     },
     "management_url": "https:\/\/apps.apple.com\/account\/subscriptions",
     "subscriptions": {
-      "premium_yearly_full_price_tier_b_free_trial_7_int": {
+      "forever_unlimited_time_discounted_80_int": {
         "original_purchase_date": "2023-10-05T12:43:01Z",
         "expires_date": "2099-10-12T12:43:00Z",
         "is_sandbox": false,
@@ -53,7 +53,7 @@ var objc = JSON.parse($response.body);
       "premium": {
         "grace_period_expires_date": null,
         "purchase_date": "2023-10-05T12:43:00Z",
-        "product_identifier": "premium_yearly_full_price_tier_b_free_trial_7_int",
+        "product_identifier": "forever_unlimited_time_discounted_80_int",
         "expires_date": "2099-10-12T12:43:00Z"
       }
     },
