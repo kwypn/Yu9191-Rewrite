@@ -1,6 +1,11 @@
 /******************************
 
 Plantapp
+下载地址：https://apps.apple.com/cn/app/plant-app-plant-identifier/id1595795215
+
+Mimic：Ai动态图片制作
+下载地址：https://apps.apple.com/cn/app/mimic-ai%E7%85%A7%E7%89%87%E9%9D%A2%E9%83%A8%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C/id1590841930
+
 
 [rewrite_local]
 
