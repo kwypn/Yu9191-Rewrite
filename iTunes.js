@@ -16,7 +16,7 @@
 下载地址：Metion 商店3.50
 下载地址：小日常 商店7.22
 下载地址：chat smith  https://t.cn/A6OC5HGz
-
+下载地址：Miary: 记录你的日记和情绪
 
 使用声明：⚠️仅供参考，🈲️转载与售卖！
 
@@ -58,7 +58,7 @@ var uaProductMapping = {
   'Metion': {product_id: 'org.zrey.metion.pro'},
   '%E5%B0%8F%E6%97%A5%E5%B8%B8': {product_id: 'membership'},
   'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
-  
+  'Miary': {product_id: 'lifetime_sub'},  
 };
 var receipt = {
   "quantity": "1",
