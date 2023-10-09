@@ -17,6 +17,7 @@
 下载地址：小日常 商店7.22
 下载地址：chat smith  https://t.cn/A6OC5HGz
 下载地址：Miary: 记录你的日记和情绪
+下载地址：mindkit https://t.cn/A6WPOgAW
 
 使用声明：⚠️仅供参考，🈲️转载与售卖！
 
