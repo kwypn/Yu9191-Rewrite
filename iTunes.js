@@ -59,6 +59,7 @@ var uaProductMapping = {
   '%E5%B0%8F%E6%97%A5%E5%B8%B8': {product_id: 'membership'},
   'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
   'Miary': {product_id: 'lifetime_sub'},  
+  'Mindkit': {product_id: 'mindkit_yearly'}, 
 };
 var receipt = {
   "quantity": "1",
