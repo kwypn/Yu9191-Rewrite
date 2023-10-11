@@ -12,7 +12,7 @@
 下载地址：Lister https://t.cn/A6OJJfW5 1.0.1
 下载地址：Daylio日记 https://t.cn/A65221md 1.52.2
 下载地址：Nutrilio https://t.cn/A6O6zTMN 1.18.0
-下载地址：亚瑟浏览器 永久订阅一次性
+下载地址：亚瑟浏览器 11.6
 下载地址：Metion 商店3.50
 下载地址：小日常 商店7.22
 下载地址：chat smith  https://t.cn/A6OC5HGz
