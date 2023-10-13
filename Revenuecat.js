@@ -12,6 +12,7 @@
 下载地址：倒数鸭 
 下载地址：HTTPBOT 2022.2.1 作者zoo
 下载地址：Mypianist 2.08
+下载地址：TouchRetouch 5.1.12
 
 使用声明：⚠️仅供参考，🈲️转载与售卖！
 
@@ -61,6 +62,7 @@ if (typeof $response == "undefined") {
     'CountDuck':{ name: 'premium', id: 'Lifetime'},
     'HTTPBot':{ name: 'Pro', id: 'httpbot_1499_1y_1w0'},
     'MyPianist':{ name: 'pro', id: 'com.collaparte.mypianist.pro.gift.twelve'},
+    'TouchRetouchBasic':{ name: 'premium', id: 'tr5_yearlysubsc_30_and_20_dlrs'},//年底订阅
   };
   const data = {
     "expires_date": "2099-12-31T12:00:00Z",
