@@ -1,0 +1,10 @@
+#!name=题库软件合集
+#!desc=19个软件
+
+[Script]
+
+Tikuheji19 = type=http-response,pattern=^https:\/\/iosapi\.yueshuian\.com(\/){1,2}front\/customer\/findById\.json\?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tikuheji19.js
+
+[MITM]
+
+hostname = %APPEND% iosapi.yueshuian.com
