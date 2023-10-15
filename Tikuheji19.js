@@ -19,7 +19,7 @@ https://question.tiku.cqxcj.top/front/customer/findById.json? url script-respons
 https://question.api.anjiazui.com/front/customer/findById.json? url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tikuheji19.js
 #59个软件
 https://app.bftk.com.cn/front/customer/findById.json url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tikuheji19.js
-https://base.cmoe.top/common/passwordLogin.json url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tikuheji19.js
+https://base.cmoe.top/common/passwordLogin.json url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tiku.js
 https://base.cmoe.top//common/guestLogin.json url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/Tikuheji19.js
 
 [mitm]
